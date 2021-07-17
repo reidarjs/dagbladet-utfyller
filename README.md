@@ -6,4 +6,5 @@ særdeles korte overskriftermed artikkelens ingress. Dette kan ofte spare bruker
 Her er noen eksempler:
 
 <img src="https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/med_utvidelse1.png" width=50%>
-![uten_utvidelse1](https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/uten_utvidelse1.png)
+<img src="https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/uten_utvidelse1.png" width=50%>
+
