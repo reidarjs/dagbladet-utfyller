@@ -12,6 +12,6 @@ Uten utvidelse:
 
 Med utvidelse:
 
-<img src="https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/med_utvidelse1.png" width=33%><img src="https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/med_utvidelse2.png" width=33%>
-<img src="https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/med_utvidelse3.png" width=33%>
+<img src="https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/med_utvidelse1.png" width=50%><img src="https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/med_utvidelse2.png" width=50%>
+<img src="https://github.com/reidarjs/dagbladet-utfyller/blob/7c8843a54b2a7c4ba822bdcf4c9f7dcf9099e6fa/eksempler/med_utvidelse3.png" width=50%>
 
