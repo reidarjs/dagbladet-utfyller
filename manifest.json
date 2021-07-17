@@ -1,0 +1,15 @@
+{
+    "manifest_version":2,
+    "name": "Dagbladet utfyller",
+    "version": "1",
+    "description": "Erstatter korte overskrifter med artikkelens ingress.",
+
+    "icons": {
+        "32": "logo.png"
+    },
+
+    "content_scripts": [{
+        "matches": ["*://*.dagbladet.no/"],
+        "js": ["script.js"]
+    }]
+}
